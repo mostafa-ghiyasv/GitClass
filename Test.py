@@ -6,3 +6,5 @@ print ("Writing in GIT")
 
 # Comments
 print ("status")
+
+print ("Sturday")
